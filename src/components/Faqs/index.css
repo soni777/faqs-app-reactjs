@@ -1,0 +1,29 @@
+.app-container {
+  background-color: #f1f5f8;
+  font-family: 'Roboto';
+  padding: 30px;
+  height: 100vh;
+}
+
+.card-container {
+  background-color: #ffffff;
+  padding: 30px;
+  height: 90vh;
+  border-radius: 8px;
+}
+
+.heading {
+  color: #cb8805;
+  text-align: center;
+  font-size: 32px;
+}
+
+.faqs-container {
+  list-style: none;
+  padding: 0px;
+}
+
+.btn {
+  border: none;
+  background-color: transparent;
+}
